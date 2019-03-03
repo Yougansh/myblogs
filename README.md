@@ -1,2 +1,3 @@
-# myblogs
-Website listing some must read blogs.
+# My Favourite Blogs
+
+Website listing must read blogs.
